@@ -1,5 +1,5 @@
 const Notifies = require('../models/notifyModel');
-
+//.
 const notifyCtrl = {
     createNotify: async (req, res) => {
         try {
