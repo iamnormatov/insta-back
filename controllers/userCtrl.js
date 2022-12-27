@@ -1,5 +1,5 @@
 const Users = require('../models/userModel');
-
+//.
 const userCtrl = {
     searchUser: async (req, res) => {
         try {
